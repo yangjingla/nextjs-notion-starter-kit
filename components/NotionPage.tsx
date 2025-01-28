@@ -291,7 +291,8 @@ export function NotionPage({
         footer={footer}
       />
 
-      <GitHubShareButton />
+      {/* 注释右上角的github分享 */}
+      {/* <GitHubShareButton /> */}
     </>
   )
 }
